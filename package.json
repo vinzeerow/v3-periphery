@@ -1,11 +1,11 @@
 {
-  "name": "@uniswap/v3-periphery",
+  "name": "@phuphamdeltalabs/v3-periphery",
   "description": "🎚 Peripheral smart contracts for interacting with Uniswap V3",
   "license": "GPL-2.0-or-later",
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.4.3",
+  "version": "1.0.1",
   "homepage": "https://uniswap.org",
   "keywords": [
     "uniswap",
