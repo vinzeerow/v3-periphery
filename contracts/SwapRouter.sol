@@ -2,9 +2,9 @@
 pragma solidity =0.7.6;
 pragma abicoder v2;
 
-import '@phuphamdeltalabs/v3-core/contracts/libraries/SafeCast.sol';
-import '@phuphamdeltalabs/v3-core/contracts/libraries/TickMath.sol';
-import '@phuphamdeltalabs/v3-core/contracts/interfaces/IUniswapV3Pool.sol';
+import '@tpvinh/v3-core/contracts/libraries/SafeCast.sol';
+import '@tpvinh/v3-core/contracts/libraries/TickMath.sol';
+import '@tpvinh/v3-core/contracts/interfaces/IUniswapV3Pool.sol';
 
 import './interfaces/ISwapRouter.sol';
 import './base/PeripheryImmutableState.sol';

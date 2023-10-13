@@ -2,9 +2,9 @@
 pragma solidity =0.7.6;
 pragma abicoder v2;
 
-import '@phuphamdeltalabs/v3-core/contracts/interfaces/IUniswapV3Factory.sol';
-import '@phuphamdeltalabs/v3-core/contracts/interfaces/callback/IUniswapV3MintCallback.sol';
-import '@phuphamdeltalabs/v3-core/contracts/libraries/TickMath.sol';
+import '@tpvinh/v3-core/contracts/interfaces/IUniswapV3Factory.sol';
+import '@tpvinh/v3-core/contracts/interfaces/callback/IUniswapV3MintCallback.sol';
+import '@tpvinh/v3-core/contracts/libraries/TickMath.sol';
 
 import '../libraries/PoolAddress.sol';
 import '../libraries/CallbackValidation.sol';

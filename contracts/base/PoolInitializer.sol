@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 pragma solidity =0.7.6;
 
-import '@phuphamdeltalabs/v3-core/contracts/interfaces/IUniswapV3Factory.sol';
-import '@phuphamdeltalabs/v3-core/contracts/interfaces/IUniswapV3Pool.sol';
+import '@tpvinh/v3-core/contracts/interfaces/IUniswapV3Factory.sol';
+import '@tpvinh/v3-core/contracts/interfaces/IUniswapV3Pool.sol';
 
 import './PeripheryImmutableState.sol';
 import '../interfaces/IPoolInitializer.sol';

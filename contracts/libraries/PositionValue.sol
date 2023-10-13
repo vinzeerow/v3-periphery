@@ -1,10 +1,10 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 pragma solidity >=0.6.8 <0.8.0;
 
-import '@phuphamdeltalabs/v3-core/contracts/interfaces/IUniswapV3Pool.sol';
-import '@phuphamdeltalabs/v3-core/contracts/libraries/FixedPoint128.sol';
-import '@phuphamdeltalabs/v3-core/contracts/libraries/TickMath.sol';
-import '@phuphamdeltalabs/v3-core/contracts/libraries/Tick.sol';
+import '@tpvinh/v3-core/contracts/interfaces/IUniswapV3Pool.sol';
+import '@tpvinh/v3-core/contracts/libraries/FixedPoint128.sol';
+import '@tpvinh/v3-core/contracts/libraries/TickMath.sol';
+import '@tpvinh/v3-core/contracts/libraries/Tick.sol';
 import '../interfaces/INonfungiblePositionManager.sol';
 import './LiquidityAmounts.sol';
 import './PoolAddress.sol';

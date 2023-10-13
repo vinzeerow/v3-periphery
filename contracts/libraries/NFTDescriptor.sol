@@ -2,10 +2,10 @@
 pragma solidity >=0.7.0;
 pragma abicoder v2;
 
-import '@phuphamdeltalabs/v3-core/contracts/interfaces/IUniswapV3Pool.sol';
-import '@phuphamdeltalabs/v3-core/contracts/libraries/TickMath.sol';
-import '@phuphamdeltalabs/v3-core/contracts/libraries/BitMath.sol';
-import '@phuphamdeltalabs/v3-core/contracts/libraries/FullMath.sol';
+import '@tpvinh/v3-core/contracts/interfaces/IUniswapV3Pool.sol';
+import '@tpvinh/v3-core/contracts/libraries/TickMath.sol';
+import '@tpvinh/v3-core/contracts/libraries/BitMath.sol';
+import '@tpvinh/v3-core/contracts/libraries/FullMath.sol';
 import '@openzeppelin/contracts/utils/Strings.sol';
 import '@openzeppelin/contracts/math/SafeMath.sol';
 import '@openzeppelin/contracts/math/SignedSafeMath.sol';

@@ -2,9 +2,9 @@
 pragma solidity =0.7.6;
 pragma abicoder v2;
 
-import '@phuphamdeltalabs/v3-core/contracts/interfaces/IUniswapV3Pool.sol';
-import '@phuphamdeltalabs/v3-core/contracts/libraries/FixedPoint128.sol';
-import '@phuphamdeltalabs/v3-core/contracts/libraries/FullMath.sol';
+import '@tpvinh/v3-core/contracts/interfaces/IUniswapV3Pool.sol';
+import '@tpvinh/v3-core/contracts/libraries/FixedPoint128.sol';
+import '@tpvinh/v3-core/contracts/libraries/FullMath.sol';
 
 import './interfaces/INonfungiblePositionManager.sol';
 import './interfaces/INonfungibleTokenPositionDescriptor.sol';
