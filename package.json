@@ -1,11 +1,11 @@
 {
-  "name": "@phuphamdeltalabs/v3-periphery",
+  "name": "@tpvinh/v3-periphery",
   "description": "🎚 Peripheral smart contracts for interacting with Uniswap V3",
   "license": "GPL-2.0-or-later",
   "publishConfig": {
     "access": "public"
   },
-  "version": "2.0.2",
+  "version": "1.0.2",
   "homepage": "https://uniswap.org",
   "keywords": [
     "uniswap",
@@ -30,8 +30,8 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "3.4.2-solc-0.7",
-    "@phuphamdeltalabs/v2-core": "^1.0.3",
-    "@phuphamdeltalabs/v3-core": "^1.0.3",
+    "@tpvinh/v2-core": "^1.0.1",
+    "@tpvinh/v3-core": "^1.0.1",
     "@uniswap/lib": "^4.0.1-alpha",
     "base64-sol": "1.0.1"
   },
